@@ -4,13 +4,13 @@
 
 I'm a first year student at ESISAR (engineering school).
 
-am currently studying electronics, programming (C), computer science
+I am currently studying electronics, programming (C), computer science
 
 ## My projects
-+ Projet NSI (development)
++ "Projet NSI" (development)
   > It's a Kahoot web app but questions and points are managed by AI
 + Orion 26
-  > Cybersécurity project. developed a command parser for a C2 server
+  > Cybersecurity project. Developed a command parser for a C2 server
 
 ## Tech stack & languages
 + Python
@@ -19,7 +19,7 @@ am currently studying electronics, programming (C), computer science
 + Bash
 
 
-**interested in** Cybersecurity, red teaming
+**interested in** Cybersecurity, Red teaming
 
 <!--
 **korakino/korakino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
