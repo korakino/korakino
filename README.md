@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bastien FAUGIER 👋
+
+I'm an first year ESISAR's student (engineering school).
+
+I learn electronics, programmation (C), computer science
 
 <!--
 **korakino/korakino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
