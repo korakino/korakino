@@ -7,12 +7,12 @@ I'm a first year student at ESISAR (engineering school).
 I am currently studying electronics, programming (C), computer science
 
 ## My projects
-+ "Projet NSI" (development)
-  > It's a Kahoot web app but questions and points are managed by AI
 + Orion 26
   > Cybersecurity project. Developed a command parser for a C2 server
 + NyxC2
-  > Cybersecurity project. Developed with python & C 
+  > Cybersecurity project. Developed with python & C
++ CerbEDR
+  > mini EDR project
 
 ## Tech stack & languages
 + Python
