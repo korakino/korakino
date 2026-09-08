@@ -2,9 +2,9 @@
 
 ## Whoami
 
-I'm a first year student at ESISAR (engineering school).
+I'm a second year student at ESISAR (engineering school).
 
-I am currently studying electronics, programming (C), computer science
+I am currently studying electronics, programming (C), computer science.
 
 ## My projects
 + Orion 26
