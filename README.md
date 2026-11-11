@@ -1,5 +1,6 @@
 # Bastien FAUGIER 👋
 
+
 ## Whoami
 
 I'm a second year student at ESISAR (engineering school).
@@ -7,12 +8,12 @@ I'm a second year student at ESISAR (engineering school).
 I am currently studying electronics, programming (C), computer science.
 
 ## My projects
-+ Orion 26
-  > Cybersecurity project. Developed a command parser for a C2 server
 + NyxC2
   > Cybersecurity project. Developed with python & C
 + CerbEDR
   > mini EDR project
++ Perceptron
+  > the basic unit of artificial neural networks and one of the first machine learning algorithms.
 
 ## Tech stack & languages
 + Python
